@@ -2,7 +2,6 @@ import requests
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
-# URL M3U файла
 m3u_url = 'https://iptv-org.github.io/iptv/index.m3u'
 
 def fetch_m3u_data(url):
@@ -22,7 +21,8 @@ def extract_tvg_ids(m3u_data):
                     if attr.startswith('tvg-id='):
                         tvg_id = attr.split('=')[1].strip('"')
                         if tvg_id:
-                            tvg_ids.append(tvg_id)
+                            if tvg_id.endswith('.us') or tvg_id.endswith('.ru') or tvg_id.endswith('.ua') or tvg_id.endswith('.uk'):
+                                tvg_ids.append(tvg_id)
     return tvg_ids
 
 def create_xml(tvg_ids, xml_file_path):
