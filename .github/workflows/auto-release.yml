@@ -27,7 +27,7 @@ jobs:
       run: npm install
 
     - name: Generate guide.xml
-      run: npm run grab -- --channels=updated_channels.xml --maxConnections=20 --lang=en --days=2
+      run: npm run grab -- --channels=updated_channels.xml --maxConnections=20
     
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
