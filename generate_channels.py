@@ -21,7 +21,7 @@ def extract_tvg_ids(m3u_data):
                     if attr.startswith('tvg-id='):
                         tvg_id = attr.split('=')[1].strip('"')
                         if tvg_id:
-                            if tvg_id.endswith('.us') or tvg_id.endswith('.ru') or tvg_id.endswith('.ua') or tvg_id.endswith('.uk'):
+                            if tvg_id.endswith('.us'):
                                 tvg_ids.append(tvg_id)
     return tvg_ids
 
