@@ -1,5 +1,12 @@
 <?xml version="1.0" ?>
 <channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DareToDreamNetwork.us" site_id="CH_K">DareToDreamNetwork.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNEnglish.us" site_id="CH_K">3ABNEnglish.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNFrench.us" site_id="CH_K">3ABNFrench.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNInternational.us" site_id="CH_K">3ABNInternational.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNKids.us" site_id="CH_K">3ABNKids.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNLatino.us" site_id="CH_K">3ABNLatino.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNPraiseHimMusicNetwork.us" site_id="CH_K">3ABNPraiseHimMusicNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="3ABNProclaimNetwork.us" site_id="CH_K">3ABNProclaimNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KERODT1.us" site_id="CH_K">KERODT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="24HourFreeMovies.us" site_id="CH_K">24HourFreeMovies.us</channel>
@@ -383,7 +390,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CypressChannel36.us" site_id="CH_K">CypressChannel36.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Dabl.us" site_id="CH_K">Dabl.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DallasCowboysCheerleaders.us" site_id="CH_K">DallasCowboysCheerleaders.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DareToDreamNetwork.us" site_id="CH_K">DareToDreamNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DarkMatterTV.us" site_id="CH_K">DarkMatterTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Dateline247.us" site_id="CH_K">Dateline247.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DaystarTV.us" site_id="CH_K">DaystarTV.us</channel>
@@ -745,7 +751,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="MCN6MusicChannel.us" site_id="CH_K">MCN6MusicChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WSBSDT1.us" site_id="CH_K">WSBSDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MeritStreet.us" site_id="CH_K">MeritStreet.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WAAYDT8.us" site_id="CH_K">WAAYDT8.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Miobsesionfavorita.us" site_id="CH_K">Miobsesionfavorita.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MBTV.us" site_id="CH_K">MBTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MidnightPulp.us" site_id="CH_K">MidnightPulp.us</channel>
@@ -858,7 +863,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="NoseyJudgeKarensCourt.us" site_id="CH_K">NoseyJudgeKarensCourt.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NoseyMaury.us" site_id="CH_K">NoseyMaury.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NoseySteveWilkos.us" site_id="CH_K">NoseySteveWilkos.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NothingScripted.us" site_id="CH_K">NothingScripted.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KNOVCD1.us" site_id="CH_K">KNOVCD1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Novelasconlaabuela.us" site_id="CH_K">Novelasconlaabuela.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Novelisima.us" site_id="CH_K">Novelisima.us</channel>
@@ -1239,7 +1243,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TastemadeenEspanol.us" site_id="CH_K">TastemadeenEspanol.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TastemadeTravel.us" site_id="CH_K">TastemadeTravel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TBD.us" site_id="CH_K">TBD.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="TBNAsia.us" site_id="CH_K">TBNAsia.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TBNEast.us" site_id="CH_K">TBNEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KTBNDT4.us" site_id="CH_K">KTBNDT4.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TBNInspire.us" site_id="CH_K">TBNInspire.us</channel>
@@ -1305,12 +1308,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ThisOldHouse.us" site_id="CH_K">ThisOldHouse.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ThisTVNetwork.us" site_id="CH_K">ThisTVNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Thornton8.us" site_id="CH_K">Thornton8.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNEnglish.us" site_id="CH_K">3ABNEnglish.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNFrench.us" site_id="CH_K">3ABNFrench.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNInternational.us" site_id="CH_K">3ABNInternational.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNKids.us" site_id="CH_K">3ABNKids.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNLatino.us" site_id="CH_K">3ABNLatino.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNPraiseHimMusicNetwork.us" site_id="CH_K">3ABNPraiseHimMusicNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ThreesCompany.us" site_id="CH_K">ThreesCompany.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Timeline.us" site_id="CH_K">Timeline.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TinTV.us" site_id="CH_K">TinTV.us</channel>
