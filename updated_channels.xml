@@ -54,6 +54,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KNXVDT1.us" site_id="CH_K">KNXVDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WAPTDT1.us" site_id="CH_K">WAPTDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WJCLDT1.us" site_id="CH_K">WJCLDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOLODT1.us" site_id="CH_K">WOLODT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KXXVDT1.us" site_id="CH_K">KXXVDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPBFDT1.us" site_id="CH_K">WPBFDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WTXLDT1.us" site_id="CH_K">WTXLDT1.us</channel>
@@ -61,7 +62,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KFSNDT1.us" site_id="CH_K">KFSNDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KHBSDT1.us" site_id="CH_K">KHBSDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPLGDT1.us" site_id="CH_K">WPLGDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="ABCEast.us" site_id="CH_K">ABCEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCNewsLive.us" site_id="CH_K">ABCNewsLive.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCNewsLive1.us" site_id="CH_K">ABCNewsLive1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCNewsLive2.us" site_id="CH_K">ABCNewsLive2.us</channel>
@@ -1417,7 +1417,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WNEPDT1.us" site_id="CH_K">WNEPDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WOIDT1.us" site_id="CH_K">WOIDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WLCT96.us" site_id="CH_K">WLCT96.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WOLODT1.us" site_id="CH_K">WOLODT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WomensSportsNetwork.us" site_id="CH_K">WomensSportsNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WorldChannel.us" site_id="CH_K">WorldChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WorldHarvestTV.us" site_id="CH_K">WorldHarvestTV.us</channel>
