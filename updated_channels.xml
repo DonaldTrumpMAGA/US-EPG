@@ -625,7 +625,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="IHeart80s.us" site_id="CH_K">IHeart80s.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="IHeart90s.us" site_id="CH_K">IHeart90s.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ImpactTVNetwork.us" site_id="CH_K">ImpactTVNetwork.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="IMPACTWrestling.us" site_id="CH_K">IMPACTWrestling.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="IntheKitchen.us" site_id="CH_K">IntheKitchen.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="IndTVUSA.us" site_id="CH_K">IndTVUSA.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="InfoWars.us" site_id="CH_K">InfoWars.us</channel>
@@ -1268,6 +1267,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TinyHouseNation.us" site_id="CH_K">TinyHouseNation.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TMTV.us" site_id="CH_K">TMTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TMZ.us" site_id="CH_K">TMZ.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="IMPACTWrestling.us" site_id="CH_K">IMPACTWrestling.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TODAYAllDay.us" site_id="CH_K">TODAYAllDay.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TODAYTV.us" site_id="CH_K">TODAYTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TokuSHOUTsu.us" site_id="CH_K">TokuSHOUTsu.us</channel>
