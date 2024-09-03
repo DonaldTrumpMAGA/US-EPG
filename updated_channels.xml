@@ -288,6 +288,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KHOUDT1.us" site_id="CH_K">KHOUDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KWCHDT1.us" site_id="CH_K">KWCHDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WLKYDT1.us" site_id="CH_K">WLKYDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBSNews247.us" site_id="CH_K">CBSNews247.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSNewsBaltimore.us" site_id="CH_K">CBSNewsBaltimore.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSNewsBayArea.us" site_id="CH_K">CBSNewsBayArea.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSNewsBoston.us" site_id="CH_K">CBSNewsBoston.us</channel>
@@ -1403,6 +1404,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WTVQDT1.us" site_id="CH_K">WTVQDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WuTangCollection.us" site_id="CH_K">WuTangCollection.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WUSADT1.us" site_id="CH_K">WUSADT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVCULP.us" site_id="CH_K">WVCULP.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WWLDT1.us" site_id="CH_K">WWLDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WWONTVChannel48.us" site_id="CH_K">WWONTVChannel48.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WXIADT1.us" site_id="CH_K">WXIADT1.us</channel>
