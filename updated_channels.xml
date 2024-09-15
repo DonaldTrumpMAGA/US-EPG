@@ -844,11 +844,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="NapaValleyChannel27.us" site_id="CH_K">NapaValleyChannel27.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NapaValleyChannel28.us" site_id="CH_K">NapaValleyChannel28.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Naruto.us" site_id="CH_K">Naruto.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NASATV.us" site_id="CH_K">NASATV.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NASATVISSViews.us" site_id="CH_K">NASATVISSViews.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NASATVMedia.us" site_id="CH_K">NASATVMedia.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NASATVPublic.us" site_id="CH_K">NASATVPublic.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NASATVUHD.us" site_id="CH_K">NASATVUHD.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NashuaETV.us" site_id="CH_K">NashuaETV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="GovernmentTV16.us" site_id="CH_K">GovernmentTV16.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WESHDT1.us" site_id="CH_K">WESHDT1.us</channel>
@@ -1354,6 +1349,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TVSVintageNetwork.us" site_id="CH_K">TVSVintageNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TVSWesternMovie.us" site_id="CH_K">TVSWesternMovie.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TVSWomenSports.us" site_id="CH_K">TVSWomenSports.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TVSConsumerDirect.us" site_id="CH_K">TVSConsumerDirect.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="UALRTV.us" site_id="CH_K">UALRTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="UCTV.us" site_id="CH_K">UCTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="UNWebTV.us" site_id="CH_K">UNWebTV.us</channel>
