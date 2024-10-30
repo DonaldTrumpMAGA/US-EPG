@@ -678,7 +678,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KMIZDT1.us" site_id="CH_K">KMIZDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KMIZDT2.us" site_id="CH_K">KMIZDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KMIZDT3.us" site_id="CH_K">KMIZDT3.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KMOSDT1.us" site_id="CH_K">KMOSDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KNLJDT1.us" site_id="CH_K">KNLJDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KOKIDT1.us" site_id="CH_K">KOKIDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KOMUDT1.us" site_id="CH_K">KOMUDT1.us</channel>
@@ -971,6 +970,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="PBSNature.us" site_id="CH_K">PBSNature.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WNJTDT1.us" site_id="CH_K">WNJTDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WNETDT1.us" site_id="CH_K">WNETDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMOSDT1.us" site_id="CH_K">KMOSDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PelisyPopcorn.us" site_id="CH_K">PelisyPopcorn.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PeopleAreAwesome.us" site_id="CH_K">PeopleAreAwesome.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PeopleTV.us" site_id="CH_K">PeopleTV.us</channel>
@@ -1188,7 +1188,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="SonyCanalEscapePerfecto.us" site_id="CH_K">SonyCanalEscapePerfecto.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SonyCanalNovelas.us" site_id="CH_K">SonyCanalNovelas.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SonyKALHindi.us" site_id="CH_K">SonyKALHindi.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="SonyMovies.us" site_id="CH_K">SonyMovies.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SoundViewCommunityMedia.us" site_id="CH_K">SoundViewCommunityMedia.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Spikeextremo.us" site_id="CH_K">Spikeextremo.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SpikeOutdoors.us" site_id="CH_K">SpikeOutdoors.us</channel>
