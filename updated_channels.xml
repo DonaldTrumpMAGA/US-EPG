@@ -823,7 +823,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="MoviesforGamers.us" site_id="CH_K">MoviesforGamers.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MoviesonVerizon.us" site_id="CH_K">MoviesonVerizon.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MovieSphere.us" site_id="CH_K">MovieSphere.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MSNBC.us" site_id="CH_K">MSNBC.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MST3K.us" site_id="CH_K">MST3K.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MTC.us" site_id="CH_K">MTC.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MTVEast.us" site_id="CH_K">MTVEast.us</channel>
@@ -1396,6 +1395,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WBBJDT1.us" site_id="CH_K">WBBJDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WBIRDT1.us" site_id="CH_K">WBIRDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WBNSDT1.us" site_id="CH_K">WBNSDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBRADT3.us" site_id="CH_K">WBRADT3.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCBIDT1.us" site_id="CH_K">WCBIDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCCADT1.us" site_id="CH_K">WCCADT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCNCDT1.us" site_id="CH_K">WCNCDT1.us</channel>
