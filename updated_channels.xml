@@ -11,11 +11,18 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KERODT1.us" site_id="CH_K">KERODT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="24HourFreeMovies.us" site_id="CH_K">24HourFreeMovies.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="30ADarcizzleOffshore.us" site_id="CH_K">30ADarcizzleOffshore.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="30AGolfKingdom.us" site_id="CH_K">30AGolfKingdom.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="30AInvestmentPitch.us" site_id="CH_K">30AInvestmentPitch.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="30ALionelNation.us" site_id="CH_K">30ALionelNation.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="30ALoomeredTV.us" site_id="CH_K">30ALoomeredTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="30ALuxeLifeDiscovered.us" site_id="CH_K">30ALuxeLifeDiscovered.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="30AMusic.us" site_id="CH_K">30AMusic.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="30ARidiculousTV.us" site_id="CH_K">30ARidiculousTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="30ASidewalks.us" site_id="CH_K">30ASidewalks.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="30ATelevisionChannel.us" site_id="CH_K">30ATelevisionChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="30ATheBeachShow.us" site_id="CH_K">30ATheBeachShow.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="30ATVClassicMovies.us" site_id="CH_K">30ATVClassicMovies.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="30AWeLoveCars.us" site_id="CH_K">30AWeLoveCars.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="48Hours.us" site_id="CH_K">48Hours.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="70sCinema.us" site_id="CH_K">70sCinema.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="80sRewind.us" site_id="CH_K">80sRewind.us</channel>
@@ -787,9 +794,9 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="MarqueeSportsNetwork.us" site_id="CH_K">MarqueeSportsNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MartinCountyTV.us" site_id="CH_K">MartinCountyTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Matlock.us" site_id="CH_K">Matlock.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MAVTVSelect.us" site_id="CH_K">MAVTVSelect.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MAVTV.us" site_id="CH_K">MAVTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MaverickBlackCinema.us" site_id="CH_K">MaverickBlackCinema.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MAVTVSelect.us" site_id="CH_K">MAVTVSelect.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MBC1USA.us" site_id="CH_K">MBC1USA.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MCN6MainChannel.us" site_id="CH_K">MCN6MainChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MCN6ArtsChannel.us" site_id="CH_K">MCN6ArtsChannel.us</channel>
