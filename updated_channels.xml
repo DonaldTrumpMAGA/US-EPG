@@ -281,6 +281,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CanelaTV.us" site_id="CH_K">CanelaTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CAPSChannel6.us" site_id="CH_K">CAPSChannel6.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CAPSChannel15.us" site_id="CH_K">CAPSChannel15.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CaribbeanWorldChannel.us" site_id="CH_K">CaribbeanWorldChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CityTVCarlsbad.us" site_id="CH_K">CityTVCarlsbad.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CatholicTV.us" site_id="CH_K">CatholicTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Cats247.us" site_id="CH_K">Cats247.us</channel>
@@ -1389,6 +1390,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WBIRDT1.us" site_id="CH_K">WBIRDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WBNSDT1.us" site_id="CH_K">WBNSDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WBRADT3.us" site_id="CH_K">WBRADT3.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="CH_K">WBZDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCBIDT1.us" site_id="CH_K">WCBIDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCCADT1.us" site_id="CH_K">WCCADT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCNCDT1.us" site_id="CH_K">WCNCDT1.us</channel>
@@ -1440,6 +1442,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WLCT96.us" site_id="CH_K">WLCT96.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WomensSportsNetwork.us" site_id="CH_K">WomensSportsNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WorldChannel.us" site_id="CH_K">WorldChannel.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WorldFishingNetwork.us" site_id="CH_K">WorldFishingNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WorldHarvestTV.us" site_id="CH_K">WorldHarvestTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WorldPokerTour.us" site_id="CH_K">WorldPokerTour.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPAATV.us" site_id="CH_K">WPAATV.us</channel>
