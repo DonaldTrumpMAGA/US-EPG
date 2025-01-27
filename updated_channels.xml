@@ -746,6 +746,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TAPTVChannel24.us" site_id="CH_K">TAPTVChannel24.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TAPTVChannel25.us" site_id="CH_K">TAPTVChannel25.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LoneStar.us" site_id="CH_K">LoneStar.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="LoneStarNetwork.us" site_id="CH_K">LoneStarNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PADNET.us" site_id="CH_K">PADNET.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LBTV.us" site_id="CH_K">LBTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LA36.us" site_id="CH_K">LA36.us</channel>
