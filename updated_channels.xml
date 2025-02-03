@@ -105,6 +105,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="AccessVisionChannel17.us" site_id="CH_K">AccessVisionChannel17.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AccuWeatherNOW.us" site_id="CH_K">AccuWeatherNOW.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KCKSLD3.us" site_id="CH_K">KCKSLD3.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ACLCornholeTV.us" site_id="CH_K">ACLCornholeTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KCKSLD4.us" site_id="CH_K">KCKSLD4.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ACTV.us" site_id="CH_K">ACTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AdultSwimAquaTeenHungerForce.us" site_id="CH_K">AdultSwimAquaTeenHungerForce.us</channel>
@@ -463,6 +464,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="FearFactor.us" site_id="CH_K">FearFactor.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FernandinaBeachChannel.us" site_id="CH_K">FernandinaBeachChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FideleTV.us" site_id="CH_K">FideleTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FidoTV.us" site_id="CH_K">FidoTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Fight.us" site_id="CH_K">Fight.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FilmRiseForensicFiles.us" site_id="CH_K">FilmRiseForensicFiles.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FilmRiseTrueCrime.us" site_id="CH_K">FilmRiseTrueCrime.us</channel>
@@ -580,6 +582,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="HomeMadeNation.us" site_id="CH_K">HomeMadeNation.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Hope4LifeTV.us" site_id="CH_K">Hope4LifeTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HopeChannelAfrica.us" site_id="CH_K">HopeChannelAfrica.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HopeChannelInterAmerica.us" site_id="CH_K">HopeChannelInterAmerica.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HopeChannelInternational.us" site_id="CH_K">HopeChannelInternational.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HopeChannelNorthAmerica.us" site_id="CH_K">HopeChannelNorthAmerica.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HSN.us" site_id="CH_K">HSN.us</channel>
@@ -1195,7 +1198,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TCT.us" site_id="CH_K">TCT.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TDAmeritradeNetwork.us" site_id="CH_K">TDAmeritradeNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TeamSpirit.us" site_id="CH_K">TeamSpirit.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="TechnoWarehouse.us" site_id="CH_K">TechnoWarehouse.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TeenMom.us" site_id="CH_K">TeenMom.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TeleBoston.us" site_id="CH_K">TeleBoston.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TelePam.us" site_id="CH_K">TelePam.us</channel>
