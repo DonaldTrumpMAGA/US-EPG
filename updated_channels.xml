@@ -193,6 +193,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="AXSTVNOW.us" site_id="CH_K">AXSTVNOW.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KRGVDT2.us" site_id="CH_K">KRGVDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BabySharkTV.us" site_id="CH_K">BabySharkTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BabyFirst.us" site_id="CH_K">BabyFirst.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Backstage.us" site_id="CH_K">Backstage.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Badassnovelas.us" site_id="CH_K">Badassnovelas.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BanningCityTV.us" site_id="CH_K">BanningCityTV.us</channel>
@@ -315,7 +316,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSSportsGolazoNetwork.us" site_id="CH_K">CBSSportsGolazoNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSSportsHQ.us" site_id="CH_K">CBSSportsHQ.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="CH_K">CBSSportsNetworkUSA.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="CBSNewsDFW.us" site_id="CH_K">CBSNewsDFW.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CCX1.us" site_id="CH_K">CCX1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CelebritySceneTV.us" site_id="CH_K">CelebritySceneTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CerritosTV3.us" site_id="CH_K">CerritosTV3.us</channel>
@@ -442,9 +442,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="EstrellaNews.us" site_id="CH_K">EstrellaNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EstrellaTV.us" site_id="CH_K">EstrellaTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESTV.us" site_id="CH_K">ESTV.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="ETLive.us" site_id="CH_K">ETLive.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EternalLifeTVNetwork.us" site_id="CH_K">EternalLifeTVNetwork.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="EVRGRN.us" site_id="CH_K">EVRGRN.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EVTVMiami.us" site_id="CH_K">EVTVMiami.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EWTNAfricaAsia.us" site_id="CH_K">EWTNAfricaAsia.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EWTNAsiaPacific.us" site_id="CH_K">EWTNAsiaPacific.us</channel>
@@ -640,7 +638,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KFSMDT1.us" site_id="CH_K">KFSMDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KGWDT1.us" site_id="CH_K">KGWDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KidsMovieClub.us" site_id="CH_K">KidsMovieClub.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KidsClick.us" site_id="CH_K">KidsClick.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KidsFlix.us" site_id="CH_K">KidsFlix.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KIRODT1.us" site_id="CH_K">KIRODT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KITVDT1.us" site_id="CH_K">KITVDT1.us</channel>
@@ -1349,8 +1346,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="VICETV.us" site_id="CH_K">VICETV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="VictorValleyTV.us" site_id="CH_K">VictorValleyTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WHOHTV.us" site_id="CH_K">WHOHTV.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="VoATVPersian.us" site_id="CH_K">VoATVPersian.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="VoATV.us" site_id="CH_K">VoATV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="VoATVPersian.us" site_id="CH_K">VoATVPersian.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="VoyagerDocumentaries.us" site_id="CH_K">VoyagerDocumentaries.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="VSiN.us" site_id="CH_K">VSiN.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KVTNDT1.us" site_id="CH_K">KVTNDT1.us</channel>
