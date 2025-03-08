@@ -288,6 +288,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KHOUDT1.us" site_id="CH_K">KHOUDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KWCHDT1.us" site_id="CH_K">KWCHDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WLKYDT1.us" site_id="CH_K">WLKYDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBSEast.us" site_id="CH_K">CBSEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSNews247.us" site_id="CH_K">CBSNews247.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSNewsBaltimore.us" site_id="CH_K">CBSNewsBaltimore.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBSNewsBayArea.us" site_id="CH_K">CBSNewsBayArea.us</channel>
@@ -1171,6 +1172,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeEast.us" site_id="CH_K">ShowtimeEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeExtremeEast.us" site_id="CH_K">ShowtimeExtremeEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeNextEast.us" site_id="CH_K">ShowtimeNextEast.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWest.us" site_id="CH_K">ShowtimeWest.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWomenEast.us" site_id="CH_K">ShowtimeWomenEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SkwadPlay.us" site_id="CH_K">SkwadPlay.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SkyTVNewYork.us" site_id="CH_K">SkyTVNewYork.us</channel>
@@ -1191,6 +1193,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="SpiritTV.us" site_id="CH_K">SpiritTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SportsGrid.us" site_id="CH_K">SportsGrid.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SportsmanChannel.us" site_id="CH_K">SportsmanChannel.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SportsNetNewYork.us" site_id="CH_K">SportsNetNewYork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="GTV.us" site_id="CH_K">GTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SPTV.us" site_id="CH_K">SPTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Stadium.us" site_id="CH_K">Stadium.us</channel>
@@ -1358,6 +1361,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="UniversalCrimeEast.us" site_id="CH_K">UniversalCrimeEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="UnivisionEast.us" site_id="CH_K">UnivisionEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="UnsolvedMysteries.us" site_id="CH_K">UnsolvedMysteries.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="UpTV.us" site_id="CH_K">UpTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="USANetworkEast.us" site_id="CH_K">USANetworkEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="USATODAY.us" site_id="CH_K">USATODAY.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CityofVacavilleChannel26.us" site_id="CH_K">CityofVacavilleChannel26.us</channel>
