@@ -710,6 +710,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="LaQueBuenaAtlanta.us" site_id="CH_K">LaQueBuenaAtlanta.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LaRosadeGuadalupe.us" site_id="CH_K">LaRosadeGuadalupe.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LacrosseTV.us" site_id="CH_K">LacrosseTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Laff.us" site_id="CH_K">Laff.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LakewoodChannel8.us" site_id="CH_K">LakewoodChannel8.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CityTVLakewood.us" site_id="CH_K">CityTVLakewood.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LaoThaiTV.us" site_id="CH_K">LaoThaiTV.us</channel>
@@ -846,8 +847,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="GovernmentTV16.us" site_id="CH_K">GovernmentTV16.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicEast.us" site_id="CH_K">NationalGeographicEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicHDEast.us" site_id="CH_K">NationalGeographicHDEast.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicindex.m3u8East.us" site_id="CH_K">NationalGeographicindex.m3u8East.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="CH_K">NationalGeographicWildEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildHDEast.us" site_id="CH_K">NationalGeographicWildHDEast.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildindex.m3u8East.us" site_id="CH_K">NationalGeographicWildindex.m3u8East.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="CH_K">NBATV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WESHDT1.us" site_id="CH_K">WESHDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KJRHDT1.us" site_id="CH_K">KJRHDT1.us</channel>
