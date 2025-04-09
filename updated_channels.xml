@@ -1186,7 +1186,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ShoutFactoryTV.us" site_id="CH_K">ShoutFactoryTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Showtime2East.us" site_id="CH_K">Showtime2East.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeEast.us" site_id="CH_K">ShowtimeEast.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeExtremeEast.us" site_id="CH_K">ShowtimeExtremeEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeNextEast.us" site_id="CH_K">ShowtimeNextEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWest.us" site_id="CH_K">ShowtimeWest.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWomenEast.us" site_id="CH_K">ShowtimeWomenEast.us</channel>
@@ -1217,12 +1216,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="StarChannelCentralAmerica.us" site_id="CH_K">StarChannelCentralAmerica.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StarTrek.us" site_id="CH_K">StarTrek.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StartTV.us" site_id="CH_K">StartTV.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="StarzComedyEast.us" site_id="CH_K">StarzComedyEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StarzEast.us" site_id="CH_K">StarzEast.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="StarzEdgeEast.us" site_id="CH_K">StarzEdgeEast.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="StarzEncoreActionEast.us" site_id="CH_K">StarzEncoreActionEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StarzEncoreClassicEast.us" site_id="CH_K">StarzEncoreClassicEast.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="StarzEncoreEast.us" site_id="CH_K">StarzEncoreEast.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StarzWest.us" site_id="CH_K">StarzWest.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StocktonGovTV.us" site_id="CH_K">StocktonGovTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StoriesbyAMC.us" site_id="CH_K">StoriesbyAMC.us</channel>
