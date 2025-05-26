@@ -29,6 +29,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="90sThrowback.us" site_id="CH_K">90sThrowback.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="247Retro.us" site_id="CH_K">247Retro.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KIIOLD4.us" site_id="CH_K">KIIOLD4.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ABC.us" site_id="CH_K">ABC.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WMARDT1.us" site_id="CH_K">WMARDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WBRZDT1.us" site_id="CH_K">WBRZDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KATCDT1.us" site_id="CH_K">KATCDT1.us</channel>
@@ -436,7 +437,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WJBKDT1.us" site_id="CH_K">WJBKDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KTVUDT1.us" site_id="CH_K">KTVUDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KDFWDT1.us" site_id="CH_K">KDFWDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WAGADT1.us" site_id="CH_K">WAGADT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WTTGDT1.us" site_id="CH_K">WTTGDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WITIDT1.us" site_id="CH_K">WITIDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KTBCDT1.us" site_id="CH_K">KTBCDT1.us</channel>
@@ -755,6 +755,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="GovernmentTV16.us" site_id="CH_K">GovernmentTV16.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicLatinAmerica.us" site_id="CH_K">NationalGeographicLatinAmerica.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="CH_K">NBATV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBC.us" site_id="CH_K">NBC.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WESHDT1.us" site_id="CH_K">WESHDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KJRHDT1.us" site_id="CH_K">KJRHDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KCRADT1.us" site_id="CH_K">KCRADT1.us</channel>
@@ -885,6 +886,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="PCTV26.us" site_id="CH_K">PCTV26.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PCTV28.us" site_id="CH_K">PCTV28.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPIXDT1.us" site_id="CH_K">WPIXDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PixLTV.us" site_id="CH_K">PixLTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PlacentiaTV.us" site_id="CH_K">PlacentiaTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AvidamodernadeRocko.us" site_id="CH_K">AvidamodernadeRocko.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PlutoTVAction.us" site_id="CH_K">PlutoTVAction.us</channel>
@@ -1097,6 +1099,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="StocktonGovTV.us" site_id="CH_K">StocktonGovTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StoriesbyAMC.us" site_id="CH_K">StoriesbyAMC.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCIUDT5.us" site_id="CH_K">WCIUDT5.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="StrykTV.us" site_id="CH_K">StrykTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StudioUniversalLatinAmerica.us" site_id="CH_K">StudioUniversalLatinAmerica.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SUMtvLatino.us" site_id="CH_K">SUMtvLatino.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SuperSimpleSongs.us" site_id="CH_K">SuperSimpleSongs.us</channel>
@@ -1118,7 +1121,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TeenNick.us" site_id="CH_K">TeenNick.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TeleBoston.us" site_id="CH_K">TeleBoston.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TelePam.us" site_id="CH_K">TelePam.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="TelefeNoticias.us" site_id="CH_K">TelefeNoticias.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TelemastersTV.us" site_id="CH_K">TelemastersTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TeleMIX.us" site_id="CH_K">TeleMIX.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TelemundoCorpusChristi.us" site_id="CH_K">TelemundoCorpusChristi.us</channel>
@@ -1259,7 +1261,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KVTNDT1.us" site_id="CH_K">KVTNDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="W14DKD1.us" site_id="CH_K">W14DKD1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="W14DKD2.us" site_id="CH_K">W14DKD2.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="W14DKD3.us" site_id="CH_K">W14DKD3.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="W14DKD5.us" site_id="CH_K">W14DKD5.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WABCDT1.us" site_id="CH_K">WABCDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WantedDeadorAlive.us" site_id="CH_K">WantedDeadorAlive.us</channel>
