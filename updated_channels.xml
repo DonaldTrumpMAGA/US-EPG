@@ -572,6 +572,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KRCGDT1.us" site_id="CH_K">KRCGDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KRCGDT2.us" site_id="CH_K">KRCGDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KRISDT1.us" site_id="CH_K">KRISDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSANDT3.us" site_id="CH_K">KSANDT3.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KSATDT2.us" site_id="CH_K">KSATDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KSBYDT1.us" site_id="CH_K">KSBYDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KSCEDT2.us" site_id="CH_K">KSCEDT2.us</channel>
@@ -683,7 +684,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="MoreTVDrama.us" site_id="CH_K">MoreTVDrama.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MoreTVSitcoms.us" site_id="CH_K">MoreTVSitcoms.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MorroBayChannel20.us" site_id="CH_K">MorroBayChannel20.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MotorTrend.us" site_id="CH_K">MotorTrend.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MoviesforGamers.us" site_id="CH_K">MoviesforGamers.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MoviesonVerizon.us" site_id="CH_K">MoviesonVerizon.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SamsungMovieSphere.us" site_id="CH_K">SamsungMovieSphere.us</channel>
@@ -1224,8 +1224,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CityTVWhittier.us" site_id="CH_K">CityTVWhittier.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WHPSCD2.us" site_id="CH_K">WHPSCD2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WHSGDT3.us" site_id="CH_K">WHSGDT3.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHSVDT4.us" site_id="CH_K">WHSVDT4.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WildNOut.us" site_id="CH_K">WildNOut.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Willow.us" site_id="CH_K">Willow.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WINPDT3.us" site_id="CH_K">WINPDT3.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCATDT3.us" site_id="CH_K">WCATDT3.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCATDT15.us" site_id="CH_K">WCATDT15.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCATDT22.us" site_id="CH_K">WCATDT22.us</channel>
@@ -1257,6 +1259,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WPXIDT1.us" site_id="CH_K">WPXIDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPXNDT3.us" site_id="CH_K">WPXNDT3.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPXNDT7.us" site_id="CH_K">WPXNDT7.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPXXDT1.us" site_id="CH_K">WPXXDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WSBDT1.us" site_id="CH_K">WSBDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WSOCDT1.us" site_id="CH_K">WSOCDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WTVDDT1247News.us" site_id="CH_K">WTVDDT1247News.us</channel>
@@ -1269,6 +1272,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="YesNetwork.us" site_id="CH_K">YesNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="YouDotGov.us" site_id="CH_K">YouDotGov.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="YoungHollywood.us" site_id="CH_K">YoungHollywood.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="YTATV.us" site_id="CH_K">YTATV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Yuma77.us" site_id="CH_K">Yuma77.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="YumaChannel72.us" site_id="CH_K">YumaChannel72.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="YumaChannel73.us" site_id="CH_K">YumaChannel73.us</channel>
