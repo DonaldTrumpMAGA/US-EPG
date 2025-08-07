@@ -572,7 +572,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KRCGDT2.us" site_id="CH_K">KRCGDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KRISDT1.us" site_id="CH_K">KRISDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KSANDT3.us" site_id="CH_K">KSANDT3.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KSATDT2.us" site_id="CH_K">KSATDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KSBYDT1.us" site_id="CH_K">KSBYDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KSCEDT2.us" site_id="CH_K">KSCEDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KSHBDT1.us" site_id="CH_K">KSHBDT1.us</channel>
@@ -1054,7 +1053,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TastemadeenEspanol.us" site_id="CH_K">TastemadeenEspanol.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Tastemade.us" site_id="CH_K">Tastemade.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TastemadeTravel.us" site_id="CH_K">TastemadeTravel.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="TBD.us" site_id="CH_K">TBD.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TBNPacific.us" site_id="CH_K">TBNPacific.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TBNUkraine.us" site_id="CH_K">TBNUkraine.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TCT.us" site_id="CH_K">TCT.us</channel>
