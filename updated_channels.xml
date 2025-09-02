@@ -333,7 +333,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CreaTVChannel28.us" site_id="CH_K">CreaTVChannel28.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CreaTVChannel15.us" site_id="CH_K">CreaTVChannel15.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CreaTVChannel30.us" site_id="CH_K">CreaTVChannel30.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="CrimePlusInvestigation.us" site_id="CH_K">CrimePlusInvestigation.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CrimenesImperfectos.us" site_id="CH_K">CrimenesImperfectos.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CruzTV.us" site_id="CH_K">CruzTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CSatTV.us" site_id="CH_K">CSatTV.us</channel>
@@ -947,6 +946,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="PokerGo.us" site_id="CH_K">PokerGo.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PomonaInternetStreamingChannel.us" site_id="CH_K">PomonaInternetStreamingChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CityofPompanoBeach.us" site_id="CH_K">CityofPompanoBeach.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PopTV.us" site_id="CH_K">PopTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PopstarTV.us" site_id="CH_K">PopstarTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PSLTV.us" site_id="CH_K">PSLTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Portlandia.us" site_id="CH_K">Portlandia.us</channel>
