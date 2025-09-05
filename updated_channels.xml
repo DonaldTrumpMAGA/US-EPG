@@ -153,6 +153,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="Aspire.us" site_id="CH_K">Aspire.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KBSVDT1.us" site_id="CH_K">KBSVDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AtHomewithFamilyHandyman.us" site_id="CH_K">AtHomewithFamilyHandyman.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AtlantaChannel.us" site_id="CH_K">AtlantaChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WATCDT1.us" site_id="CH_K">WATCDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WATCDT2.us" site_id="CH_K">WATCDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ATVSat.us" site_id="CH_K">ATVSat.us</channel>
@@ -220,11 +221,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TheBurbankChannel.us" site_id="CH_K">TheBurbankChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BUTV10.us" site_id="CH_K">BUTV10.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Buzzr.us" site_id="CH_K">Buzzr.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BXArts.us" site_id="CH_K">BXArts.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BXCulture.us" site_id="CH_K">BXCulture.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BXInform.us" site_id="CH_K">BXInform.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BXInspire.us" site_id="CH_K">BXInspire.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BXOmni.us" site_id="CH_K">BXOmni.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BYUTV.us" site_id="CH_K">BYUTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CSPAN.us" site_id="CH_K">CSPAN.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CSPAN2.us" site_id="CH_K">CSPAN2.us</channel>
@@ -279,6 +275,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CatholicFaithNetwork.us" site_id="CH_K">CatholicFaithNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CGTV.us" site_id="CH_K">CGTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ScottsdaleChannel11.us" site_id="CH_K">ScottsdaleChannel11.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ChannelOne.us" site_id="CH_K">ChannelOne.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CCTV.us" site_id="CH_K">CCTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CheddarNews.us" site_id="CH_K">CheddarNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ChefChampion.us" site_id="CH_K">ChefChampion.us</channel>
