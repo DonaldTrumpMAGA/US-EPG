@@ -236,7 +236,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CatholicTV.us" site_id="CH_K">CatholicTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Cats247.us" site_id="CH_K">Cats247.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CaughtinProvidence.us" site_id="CH_K">CaughtinProvidence.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="CBNEspanol.us" site_id="CH_K">CBNEspanol.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBNFamily.us" site_id="CH_K">CBNFamily.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CBNNews.us" site_id="CH_K">CBNNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KTVQDT1.us" site_id="CH_K">KTVQDT1.us</channel>
@@ -1069,7 +1068,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TeveVidaNetwork.us" site_id="CH_K">TeveVidaNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheAddamsFamily.us" site_id="CH_K">TheAddamsFamily.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheAmazingRace.us" site_id="CH_K">TheAmazingRace.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="TheArchive.us" site_id="CH_K">TheArchive.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheAsylum.us" site_id="CH_K">TheAsylum.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheBobRossChannelenEspanol.us" site_id="CH_K">TheBobRossChannelenEspanol.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheCountryNetwork.us" site_id="CH_K">TheCountryNetwork.us</channel>
@@ -1095,6 +1093,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="Thornton8.us" site_id="CH_K">Thornton8.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Timeline.us" site_id="CH_K">Timeline.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TinTV.us" site_id="CH_K">TinTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TLNMediaChicago.us" site_id="CH_K">TLNMediaChicago.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TLNMediaSanFrancisco.us" site_id="CH_K">TLNMediaSanFrancisco.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TMTV.us" site_id="CH_K">TMTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TMZ.us" site_id="CH_K">TMZ.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TODAYAllDay.us" site_id="CH_K">TODAYAllDay.us</channel>
