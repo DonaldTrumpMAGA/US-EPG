@@ -373,6 +373,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="EntrepreneurTV.us" site_id="CH_K">EntrepreneurTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EscambiaCountyTV.us" site_id="CH_K">EscambiaCountyTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPNU.us" site_id="CH_K">ESPNU.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNews.us" site_id="CH_K">ESPNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EstrellaGames.us" site_id="CH_K">EstrellaGames.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EstrellaNews.us" site_id="CH_K">EstrellaNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EstrellaTV.us" site_id="CH_K">EstrellaTV.us</channel>
@@ -467,7 +468,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="GospelTruthTV.us" site_id="CH_K">GospelTruthTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="GoTraveler.us" site_id="CH_K">GoTraveler.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Grandeish.us" site_id="CH_K">Grandeish.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="GreatAmericanCountry.us" site_id="CH_K">GreatAmericanCountry.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="GreensboroTV.us" site_id="CH_K">GreensboroTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Grit.us" site_id="CH_K">Grit.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="GritXtra.us" site_id="CH_K">GritXtra.us</channel>
@@ -646,7 +646,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="MarinTVEducationalChannel.us" site_id="CH_K">MarinTVEducationalChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MarinTVGovernmentChannel.us" site_id="CH_K">MarinTVGovernmentChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MartinCountyTV.us" site_id="CH_K">MartinCountyTV.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MAVTV.us" site_id="CH_K">MAVTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MaverickBlackCinema.us" site_id="CH_K">MaverickBlackCinema.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MBC1USA.us" site_id="CH_K">MBC1USA.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MBC3USA.us" site_id="CH_K">MBC3USA.us</channel>
@@ -977,6 +976,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="RevryBrasil.us" site_id="CH_K">RevryBrasil.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RevryHer.us" site_id="CH_K">RevryHer.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RevryLatinX.us" site_id="CH_K">RevryLatinX.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="RevryNews.us" site_id="CH_K">RevryNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RevryQueer.us" site_id="CH_K">RevryQueer.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RFDTV.us" site_id="CH_K">RFDTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RiffTrax.us" site_id="CH_K">RiffTrax.us</channel>
@@ -1204,7 +1204,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WDEFDT1.us" site_id="CH_K">WDEFDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WeatherNation.us" site_id="CH_K">WeatherNation.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WeatherNationNewYork.us" site_id="CH_K">WeatherNationNewYork.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WeatherSpy.us" site_id="CH_K">WeatherSpy.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WeHoTV.us" site_id="CH_K">WeHoTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WesternTV.us" site_id="CH_K">WesternTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WestminsterWTVChannel.us" site_id="CH_K">WestminsterWTVChannel.us</channel>
