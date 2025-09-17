@@ -492,7 +492,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="HopeChannelNorthAmerica.us" site_id="CH_K">HopeChannelNorthAmerica.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HSN.us" site_id="CH_K">HSN.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HSN2.us" site_id="CH_K">HSN2.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="HTV.us" site_id="CH_K">HTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HTV1HoustonTelevision.us" site_id="CH_K">HTV1HoustonTelevision.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HTV2HoustonTelevision.us" site_id="CH_K">HTV2HoustonTelevision.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HumorMill.us" site_id="CH_K">HumorMill.us</channel>
@@ -1069,6 +1068,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TheAddamsFamily.us" site_id="CH_K">TheAddamsFamily.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheAmazingRace.us" site_id="CH_K">TheAmazingRace.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheAsylum.us" site_id="CH_K">TheAsylum.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheBeachChannel.us" site_id="CH_K">TheBeachChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheBobRossChannelenEspanol.us" site_id="CH_K">TheBobRossChannelenEspanol.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheCountryNetwork.us" site_id="CH_K">TheCountryNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheCowboyChannel.us" site_id="CH_K">TheCowboyChannel.us</channel>
