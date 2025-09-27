@@ -548,6 +548,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KMBCDT2.us" site_id="CH_K">KMBCDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KMCIDT1.us" site_id="CH_K">KMCIDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KMCIDT2.us" site_id="CH_K">KMCIDT2.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMCTDT1.us" site_id="CH_K">KMCTDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KMIZDT1.us" site_id="CH_K">KMIZDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KMIZDT2.us" site_id="CH_K">KMIZDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KMIZDT3.us" site_id="CH_K">KMIZDT3.us</channel>
@@ -1209,6 +1210,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WestminsterWTVChannel.us" site_id="CH_K">WestminsterWTVChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WFMZDT1.us" site_id="CH_K">WFMZDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WFTXDT1.us" site_id="CH_K">WFTXDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGGSDT1.us" site_id="CH_K">WGGSDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WGNDT1.us" site_id="CH_K">WGNDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WHBQDT1.us" site_id="CH_K">WHBQDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WHIODT1.us" site_id="CH_K">WHIODT1.us</channel>
