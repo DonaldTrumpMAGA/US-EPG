@@ -264,6 +264,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CGTV.us" site_id="CH_K">CGTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ScottsdaleChannel11.us" site_id="CH_K">ScottsdaleChannel11.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ChannelOne.us" site_id="CH_K">ChannelOne.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Charge.us" site_id="CH_K">Charge.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CCTV.us" site_id="CH_K">CCTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CheddarNews.us" site_id="CH_K">CheddarNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ChefChampion.us" site_id="CH_K">ChefChampion.us</channel>
@@ -1076,6 +1077,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ThePetCollective.us" site_id="CH_K">ThePetCollective.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheRifleman.us" site_id="CH_K">TheRifleman.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheSoutheasternChannel.us" site_id="CH_K">TheSoutheasternChannel.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheWalkTV.us" site_id="CH_K">TheWalkTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheWalkingDeadUniverse.us" site_id="CH_K">TheWalkingDeadUniverse.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheWeatherChannelenEspanol.us" site_id="CH_K">TheWeatherChannelenEspanol.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheWordNetwork.us" site_id="CH_K">TheWordNetwork.us</channel>
