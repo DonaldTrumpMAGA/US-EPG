@@ -150,7 +150,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="AvangTV.us" site_id="CH_K">AvangTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AWE.us" site_id="CH_K">AWE.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AWEEncore.us" site_id="CH_K">AWEEncore.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AXSTV.us" site_id="CH_K">AXSTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BabyFirst.us" site_id="CH_K">BabyFirst.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Backstage.us" site_id="CH_K">Backstage.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Badassnovelas.us" site_id="CH_K">Badassnovelas.us</channel>
@@ -374,7 +373,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CityofFairfieldChannel26.us" site_id="CH_K">CityofFairfieldChannel26.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FamilyTime.us" site_id="CH_K">FamilyTime.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FanDuelSportsNetwork.us" site_id="CH_K">FanDuelSportsNetwork.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FanDuelTV.us" site_id="CH_K">FanDuelTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FashionFinds.us" site_id="CH_K">FashionFinds.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FCPublicMedia.us" site_id="CH_K">FCPublicMedia.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FearFactor.us" site_id="CH_K">FearFactor.us</channel>
@@ -820,7 +818,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WMPTDT1.us" site_id="CH_K">WMPTDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PBSNature.us" site_id="CH_K">PBSNature.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WNJTDT1.us" site_id="CH_K">WNJTDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WNETDT1.us" site_id="CH_K">WNETDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PelisyPopcorn.us" site_id="CH_K">PelisyPopcorn.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PeopleAreAwesome.us" site_id="CH_K">PeopleAreAwesome.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PGATour.us" site_id="CH_K">PGATour.us</channel>
@@ -1230,7 +1227,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WMORDT1.us" site_id="CH_K">WMORDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WMPTDT2.us" site_id="CH_K">WMPTDT2.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WNBCDT1.us" site_id="CH_K">WNBCDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WNJUDT1.us" site_id="CH_K">WNJUDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNETDT1.us" site_id="CH_K">WNETDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WLCT96.us" site_id="CH_K">WLCT96.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WOLODT1.us" site_id="CH_K">WOLODT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WomensSportsNetwork.us" site_id="CH_K">WomensSportsNetwork.us</channel>
