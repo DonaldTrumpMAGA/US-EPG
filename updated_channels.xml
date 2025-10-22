@@ -1,4 +1,6 @@
 <?xml version="1.0" ?>
 <channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyChannel.us" site_id="CH_K">DisneyChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Heartland.us" site_id="CH_K">Heartland.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJLPDT1.us" site_id="CH_K">WJLPDT1.us</channel>
 </channels>
