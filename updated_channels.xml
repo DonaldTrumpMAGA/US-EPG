@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BounceXL.us" site_id="CH_K">BounceXL.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyChannel.us" site_id="CH_K">DisneyChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPNDeportes.us" site_id="CH_K">ESPNDeportes.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="GritXtra.us" site_id="CH_K">GritXtra.us</channel>
