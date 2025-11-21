@@ -1,8 +1,2 @@
 <?xml version="1.0" ?>
-<channels>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyChannel.us" site_id="CH_K">DisneyChannel.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="GreatAmericanFamily.us" site_id="CH_K">GreatAmericanFamily.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="IONPlus.us" site_id="CH_K">IONPlus.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KTVKDT1.us" site_id="CH_K">KTVKDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="ThePriceIsRight.us" site_id="CH_K">ThePriceIsRight.us</channel>
-</channels>
+<channels/>
