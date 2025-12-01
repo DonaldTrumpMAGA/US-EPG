@@ -1,2 +1,6 @@
 <?xml version="1.0" ?>
-<channels/>
+<channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLSDT1.us" site_id="CH_K">WLSDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBBMDT1.us" site_id="CH_K">WBBMDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMAQDT1.us" site_id="CH_K">WMAQDT1.us</channel>
+</channels>
