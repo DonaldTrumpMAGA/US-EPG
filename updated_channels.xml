@@ -1,6 +1,2 @@
 <?xml version="1.0" ?>
-<channels>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KajouTV.us" site_id="CH_K">KajouTV.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusDriveIn.us" site_id="CH_K">MGMPlusDriveIn.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="RTHTV2Gospel.us" site_id="CH_K">RTHTV2Gospel.us</channel>
-</channels>
+<channels/>
