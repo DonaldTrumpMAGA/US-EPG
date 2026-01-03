@@ -1,2 +1,4 @@
 <?xml version="1.0" ?>
-<channels/>
+<channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TUDN.us" site_id="CH_K">TUDN.us</channel>
+</channels>
