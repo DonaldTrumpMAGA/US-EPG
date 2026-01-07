@@ -1,4 +1,5 @@
 <?xml version="1.0" ?>
 <channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ScrippsNews.us" site_id="CH_K">ScrippsNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TUDN.us" site_id="CH_K">TUDN.us</channel>
 </channels>
