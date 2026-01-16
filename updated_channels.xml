@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMAQDT1.us" site_id="CH_K">WMAQDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ScrippsNews.us" site_id="CH_K">ScrippsNews.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TUDN.us" site_id="CH_K">TUDN.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WGGSDT2.us" site_id="CH_K">WGGSDT2.us</channel>
