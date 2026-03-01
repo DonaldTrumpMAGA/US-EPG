@@ -1,2 +1,13 @@
 <?xml version="1.0" ?>
-<channels/>
+<channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DroneTV.us" site_id="CH_K">DroneTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="EKeepingUp.us" site_id="CH_K">EKeepingUp.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxSports2.us" site_id="CH_K">FoxSports2.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HmongStarTV.us" site_id="CH_K">HmongStarTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ImanTV.us" site_id="CH_K">ImanTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KidsPangTV.us" site_id="CH_K">KidsPangTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MovieSphere.us" site_id="CH_K">MovieSphere.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NATTV.us" site_id="CH_K">NATTV.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBCComedyVault.us" site_id="CH_K">NBCComedyVault.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PBSRetro.us" site_id="CH_K">PBSRetro.us</channel>
+</channels>
