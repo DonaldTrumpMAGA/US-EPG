@@ -24,7 +24,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CineRomantico.us" site_id="CH_K">CineRomantico.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Clarity4K.us" site_id="CH_K">Clarity4K.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DangerTV.us" site_id="CH_K">DangerTV.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DoveChannel.us" site_id="CH_K">DoveChannel.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MeritStreet.us" site_id="CH_K">MeritStreet.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DraftKingsNetwork.us" site_id="CH_K">DraftKingsNetwork.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FilmRiseAnime.us" site_id="CH_K">FilmRiseAnime.us</channel>
@@ -36,7 +35,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="HappyKids.us" site_id="CH_K">HappyKids.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Hungry.us" site_id="CH_K">Hungry.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheJamieOliverChannel.us" site_id="CH_K">TheJamieOliverChannel.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="Journy.us" site_id="CH_K">Journy.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LiveNOWfromFOX.us" site_id="CH_K">LiveNOWfromFOX.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Localish.us" site_id="CH_K">Localish.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="LuckyDog.us" site_id="CH_K">LuckyDog.us</channel>
@@ -48,7 +46,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="NHRATV.us" site_id="CH_K">NHRATV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NinjaKidzTV.us" site_id="CH_K">NinjaKidzTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="OutdoorAmerica.us" site_id="CH_K">OutdoorAmerica.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="OutsideTV.us" site_id="CH_K">OutsideTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Overtime.us" site_id="CH_K">Overtime.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PBSNature.us" site_id="CH_K">PBSNature.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PBSTravel.us" site_id="CH_K">PBSTravel.us</channel>
@@ -58,10 +55,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="PursuitUP.us" site_id="CH_K">PursuitUP.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RacerSelect.us" site_id="CH_K">RacerSelect.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RainbowRuby.us" site_id="CH_K">RainbowRuby.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="RealAmericasVoice.us" site_id="CH_K">RealAmericasVoice.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Reelz.us" site_id="CH_K">Reelz.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="RevandRoll.us" site_id="CH_K">RevandRoll.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="Revry.us" site_id="CH_K">Revry.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SamsungWildlife.us" site_id="CH_K">SamsungWildlife.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShoutFactoryTV.us" site_id="CH_K">ShoutFactoryTV.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Stadium.us" site_id="CH_K">Stadium.us</channel>
