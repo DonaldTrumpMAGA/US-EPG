@@ -1,49 +1,4 @@
 <?xml version="1.0" ?>
 <channels>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KATUDT1.us" site_id="CH_K">KATUDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WCIVDT1.us" site_id="CH_K">WCIVDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KOMODT1.us" site_id="CH_K">KOMODT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KSTPDT1.us" site_id="CH_K">KSTPDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KAALDT1.us" site_id="CH_K">KAALDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WSYXDT1.us" site_id="CH_K">WSYXDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WJLADT1.us" site_id="CH_K">WJLADT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WDIODT1.us" site_id="CH_K">WDIODT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WLOSDT1.us" site_id="CH_K">WLOSDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WPDEDT1.us" site_id="CH_K">WPDEDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WKEFDT1.us" site_id="CH_K">WKEFDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AsianCrush.us" site_id="CH_K">AsianCrush.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AWEEncore.us" site_id="CH_K">AWEEncore.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AWEInternational.us" site_id="CH_K">AWEInternational.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KUTVDT1.us" site_id="CH_K">KUTVDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WWMTDT1.us" site_id="CH_K">WWMTDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KDBCDT1.us" site_id="CH_K">KDBCDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WKRCDT1.us" site_id="CH_K">WKRCDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WPECDT1.us" site_id="CH_K">WPECDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WHPDT1.us" site_id="CH_K">WHPDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WSBTDT1.us" site_id="CH_K">WSBTDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KEYEDT1.us" site_id="CH_K">KEYEDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="CBSSportsHQ.us" site_id="CH_K">CBSSportsHQ.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DaystarTVEspanol.us" site_id="CH_K">DaystarTVEspanol.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DoveChannel.us" site_id="CH_K">DoveChannel.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="EntertainmentTonight.us" site_id="CH_K">EntertainmentTonight.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WLUKDT1.us" site_id="CH_K">WLUKDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KOKHDT1.us" site_id="CH_K">KOKHDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KMPHDT1.us" site_id="CH_K">KMPHDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WBFFDT1.us" site_id="CH_K">WBFFDT1.us</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FTFSports.us" site_id="CH_K">FTFSports.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MidnightPulp.us" site_id="CH_K">MidnightPulp.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="Narutoenespanol.us" site_id="CH_K">Narutoenespanol.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KSNVDT1.us" site_id="CH_K">KSNVDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="KOBDT1.us" site_id="CH_K">KOBDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WOAIDT1.us" site_id="CH_K">WOAIDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WJACDT1.us" site_id="CH_K">WJACDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WTOVDT1.us" site_id="CH_K">WTOVDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WHECDT1.us" site_id="CH_K">WHECDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WNYTDT1.us" site_id="CH_K">WNYTDT1.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="RealAmericasVoice.us" site_id="CH_K">RealAmericasVoice.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="RetroCrush.us" site_id="CH_K">RetroCrush.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="TheArchive.us" site_id="CH_K">TheArchive.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="TheFilmDetective.us" site_id="CH_K">TheFilmDetective.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="USATODAY.us" site_id="CH_K">USATODAY.us</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WeatherNation.us" site_id="CH_K">WeatherNation.us</channel>
 </channels>
