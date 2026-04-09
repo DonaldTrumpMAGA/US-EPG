@@ -1,4 +1,5 @@
 <?xml version="1.0" ?>
 <channels>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WCBSDT1.us" site_id="CH_K">WCBSDT1.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="EbonyTVbyLionsgate.us" site_id="CH_K">EbonyTVbyLionsgate.us</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NashBridges.us" site_id="CH_K">NashBridges.us</channel>
 </channels>
